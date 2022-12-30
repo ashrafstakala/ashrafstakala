@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi , I'm Ashraf 👋</h2>
+<h2> Hi, I'm Ashraf 👋</h2>
 
 I'm currently making the switch from product to software engineering. Still very much a beginner, but I am excited to continue learning and improving as a coder. If you have any tips or resources to recommend, I would appreciate it.
 
