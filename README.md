@@ -1,8 +1,6 @@
 <div align="center">
 <h2> Hi, I'm Ash 👋</h2>
 
-I'm making the switch from product to software engineering. I'm based in **Cape Town, South Africa**
-
 </div>
 
 <div align="center">
