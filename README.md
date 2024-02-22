@@ -1,6 +1,4 @@
 <div align="center">
-<h2> Hi, I'm Ash 👋</h2>
-
-</div>
+<h2> hi, i'm ash 👋</h2>
 
 
